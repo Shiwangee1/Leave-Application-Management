@@ -1,0 +1,90 @@
+<link
+	href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+	rel="stylesheet" id="bootstrap-css">
+<script
+	src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script
+	src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+
+<html>
+<head>
+
+<link
+	href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+	rel="stylesheet" id="bootstrap-css">
+<script
+	src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script
+	src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+
+<%@ include file="CSS/Admin_login.jsp"%>
+<%@ include file="CSS/Links.jsp"%>
+<!------ Include the above in your HEAD tag ---------->
+</head>
+<body id="LoginForm">
+	<div class="container p-5">
+
+		<div class="login-form">
+			<div class="main-div">
+				<div class="panel">
+					<h2>Admin Login</h2>
+					<p>Please enter your email and password</p>
+				</div>
+				<form id="Login">
+
+					<div class="form-group">
+
+						<div class="input-group">
+							<input type="email" class="form-control" id="inputEmail"
+								placeholder="Email Address">
+							<div class="input-group-append">
+								<span class="input-group-text"><i
+									class="fa-solid fa-user"></i></span>
+							</div>
+						</div>
+
+					</div>
+
+
+
+
+					<div class="form-group">
+
+
+						<div class="input-group">
+
+							<input type="password" class="form-control" id="inputPassword"
+								placeholder="Password">
+
+							<div class="input-group-append">
+								<span class="input-group-text"><i
+									class="fa-solid fa-lock"></i></span>
+							</div>
+						</div>
+
+
+
+					</div>
+
+
+					<br> <br>
+
+					<button type="submit" class="btn btn-outline-light  btn-lg"
+						id="myButton">
+						Submit <i class="fa-solid fa-arrow-right myButton"></i>
+					</button>
+					<br> <br> <a href="Login.jsp"><i
+						class="fa-solid fa-arrow-left"></i> Back to User Login </a>
+				</form>
+			</div>
+
+		</div>
+	</div>
+
+
+
+</body>
+</html>

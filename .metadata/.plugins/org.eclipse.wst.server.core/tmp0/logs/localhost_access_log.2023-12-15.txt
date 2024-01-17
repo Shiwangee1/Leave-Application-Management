@@ -1,0 +1,7 @@
+127.0.0.1 - - [15/Dec/2023:09:12:20 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Dec/2023:09:12:24 +0530] "GET /Employee_management/ HTTP/1.1" 200 6506
+0:0:0:0:0:0:0:1 - - [15/Dec/2023:09:12:24 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/Dec/2023:09:12:45 +0530] "GET /Employee_management/Admin/Admin_dashboard.jsp HTTP/1.1" 200 14966
+0:0:0:0:0:0:0:1 - - [15/Dec/2023:09:13:23 +0530] "GET /Employee_management/Admin/Employee_Section.jsp HTTP/1.1" 200 13920
+0:0:0:0:0:0:0:1 - - [15/Dec/2023:09:13:29 +0530] "GET /Employee_management/Admin/Departments.jsp HTTP/1.1" 200 7123
+0:0:0:0:0:0:0:1 - - [15/Dec/2023:09:13:31 +0530] "GET /Employee_management/Admin/Leave_type.jsp HTTP/1.1" 200 6487

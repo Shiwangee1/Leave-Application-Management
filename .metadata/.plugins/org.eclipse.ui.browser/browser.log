@@ -1,0 +1,141 @@
+
+Nov 06, 2023 11:29:25.900 NEW SESSION
+Nov 06, 2023 11:29:25.900 [7900:4472:1106/112925.894:ERROR:CONSOLE(1)] "Request Emulation.setEmitTouchEventsForMouse failed. {"code":-32601,"message":"'Emulation.setEmitTouchEventsForMouse' wasn't found"}", source: devtools://devtools/bundled/devtools-frontend/front_end/core/protocol_client/protocol_client.js (1)
+
+Nov 07, 2023 14:46:41.533 NEW SESSION
+Nov 07, 2023 14:46:41.533 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Nov 08, 2023 12:51:45.682 NEW SESSION
+Nov 08, 2023 12:51:45.686 [2620:3024:1108/125145.642:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 08, 2023 12:53:50.105 [2620:3024:1108/125350.104:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Nov 13, 2023 15:11:46.32 NEW SESSION
+Nov 13, 2023 15:11:46.32 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 13, 2023 15:11:46.33 WARNING: Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#56 is a dynamic-sized tensor).
+
+Nov 15, 2023 13:41:38.414 NEW SESSION
+Nov 15, 2023 13:41:38.414 [10648:2484:1115/134138.408:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 15, 2023 13:59:36.742 [10648:2484:1115/135936.741:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Nov 16, 2023 13:33:16.535 NEW SESSION
+Nov 16, 2023 13:33:16.535 [4864:8508:1116/133316.522:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 16, 2023 14:01:22.683 [4864:8508:1116/140122.682:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 16, 2023 14:45:46.974 [4864:1792:1116/144546.973:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Nov 16, 2023 15:18:01.334 [4864:8508:1116/151801.333:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 16, 2023 16:26:07.467 [4864:1792:1116/162607.466:ERROR:device_event_log_impl.cc(192)] [16:26:07.466] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Nov 16, 2023 16:26:07.483 [4864:1792:1116/162607.483:ERROR:device_event_log_impl.cc(192)] [16:26:07.483] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Nov 20, 2023 09:24:55.698 NEW SESSION
+Nov 20, 2023 09:24:55.699 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 20, 2023 09:37:56.112 [11080:10092:1120/093756.111:ERROR:block_files.cc(109)] Failing CreateMapBlock
+Nov 20, 2023 09:37:56.112 [11080:10092:1120/093756.111:ERROR:backend_impl.cc(567)] Create entry failed Chrome/119.0.6045.160-----x86_64:BiAOgAOAAAcAgIgLBIABCAaA////////////////////fwAAAAAAAAAA6AAAAAAIAAAAQMgAAAA=
+Nov 20, 2023 09:37:56.113 [11080:10276:1120/093756.111:ERROR:gpu_disk_cache.cc(216)] Failed to create blob cache entry: -2
+Nov 20, 2023 09:54:59.715 [11080:10092:1120/095459.714:ERROR:block_files.cc(109)] Failing CreateMapBlock
+Nov 20, 2023 09:54:59.715 [11080:10092:1120/095459.714:ERROR:backend_impl.cc(567)] Create entry failed Chrome/119.0.6045.160-----x86_64:BgAOgAOAAAcAgIgLBIABCAaA////////////////////fwAAAAAAAACAysB2qgEfAAAAgENAAACEAAAAAAAAAABAAAAAQIY4BAQAQAgAAAAAAAAAAAQAAACsCIQAAAAAAAAAAEAAAACADUEIAAAAAAAAAAAMAAAArAgAQAAAAAANAYQMAAAAAAAAAKwIAEAAAAAADQGEDAAAAAAAAACsCABAAAAAAA0BhAwAAAAAAAAA6AAAAAAIAAAAQMgAAAAA
+Nov 20, 2023 09:54:59.716 [11080:10276:1120/095459.714:ERROR:gpu_disk_cache.cc(216)] Failed to create blob cache entry: -2
+Nov 20, 2023 13:39:23.372 [11080:9796:1120/133923.370:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Nov 20, 2023 13:43:02.56 [11080:9796:1120/134302.055:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 20, 2023 13:43:24.514 [11080:9796:1120/134324.513:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Nov 20, 2023 13:44:10.796 [11080:9796:1120/134410.796:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+Nov 21, 2023 09:51:40.122 NEW SESSION
+Nov 21, 2023 09:51:40.122 [10688:11100:1121/095140.119:ERROR:device_event_log_impl.cc(192)] [09:51:40.119] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Dec 05, 2023 12:47:03.718 NEW SESSION
+Dec 05, 2023 12:47:03.718 [2324:6684:1205/124703.715:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 05, 2023 12:57:21.447 [2324:6684:1205/125721.446:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 05, 2023 12:57:22.933 [2324:6684:1205/125722.933:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 05, 2023 12:57:26.271 [2324:6684:1205/125726.270:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 05, 2023 13:16:54.525 [2324:10616:1205/131654.525:ERROR:device_event_log_impl.cc(192)] [13:16:54.524] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 05, 2023 13:16:54.539 [2324:10616:1205/131654.539:ERROR:device_event_log_impl.cc(192)] [13:16:54.538] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Dec 05, 2023 13:40:36.655 [2324:10616:1205/134036.655:ERROR:device_event_log_impl.cc(192)] [13:40:36.654] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 05, 2023 13:40:36.663 [2324:10616:1205/134036.663:ERROR:device_event_log_impl.cc(192)] [13:40:36.662] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Dec 05, 2023 13:44:47.878 [2324:6684:1205/134447.878:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 05, 2023 13:48:01.239 [2324:6684:1205/134801.239:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 05, 2023 13:48:02.796 [2324:6684:1205/134802.795:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 05, 2023 13:48:06.270 [2324:6684:1205/134806.270:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 05, 2023 14:03:09.227 [2324:10616:1205/140309.226:ERROR:usb_descriptors.cc(161)] Device descriptor parsing error.
+Dec 05, 2023 14:03:09.228 [2324:10616:1205/140309.227:ERROR:device_event_log_impl.cc(192)] [14:03:09.227] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_1c4f&pid_0002#5&17bde8d1&0&3#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+Dec 05, 2023 14:03:09.640 [2324:10616:1205/140309.640:ERROR:device_event_log_impl.cc(192)] [14:03:09.639] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 05, 2023 14:03:09.663 [2324:10616:1205/140309.663:ERROR:device_event_log_impl.cc(192)] [14:03:09.662] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Dec 07, 2023 08:59:49.509 NEW SESSION
+Dec 07, 2023 08:59:49.509 [4552:4400:1207/085949.506:ERROR:usb_descriptors.cc(114)] Failed to parse configuration descriptor.
+Dec 07, 2023 15:18:04.327 [11180:11592:1207/151804.326:ERROR:device_event_log_impl.cc(192)] [15:18:04.326] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 07, 2023 15:18:04.341 [11180:11592:1207/151804.341:ERROR:device_event_log_impl.cc(192)] [15:18:04.341] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Dec 07, 2023 17:16:30.178 [11180:11592:1207/171630.178:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+Dec 07, 2023 17:18:30.353 [11180:11592:1207/171830.353:ERROR:interface_endpoint_client.cc(702)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Dec 08, 2023 14:52:19.69 NEW SESSION
+Dec 08, 2023 14:52:19.69 [11212:12548:1208/145219.066:ERROR:device_event_log_impl.cc(192)] [14:52:19.065] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+Dec 08, 2023 15:26:22.390 [11212:12548:1208/152622.390:ERROR:device_event_log_impl.cc(192)] [15:26:22.390] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 08, 2023 15:26:22.419 [11212:12548:1208/152622.419:ERROR:device_event_log_impl.cc(192)] [15:26:22.418] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Dec 08, 2023 15:26:39.241 [11212:12548:1208/152639.241:ERROR:device_event_log_impl.cc(192)] [15:26:39.241] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 08, 2023 15:26:39.255 [11212:12548:1208/152639.254:ERROR:device_event_log_impl.cc(192)] [15:26:39.254] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Dec 09, 2023 10:09:47.73 NEW SESSION
+Dec 09, 2023 10:09:47.73 [4200:10144:1209/100947.070:ERROR:device_event_log_impl.cc(192)] [10:09:47.071] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 09, 2023 10:09:47.90 [4200:10144:1209/100947.090:ERROR:device_event_log_impl.cc(192)] [10:09:47.090] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Dec 09, 2023 13:49:19.258 [4200:10696:1209/134919.256:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 09, 2023 14:14:56.409 [4200:10696:1209/141456.409:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 09, 2023 14:14:57.895 [4200:10696:1209/141457.895:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 09, 2023 14:15:01.461 [4200:10696:1209/141501.461:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 09, 2023 15:31:35.982 [4200:10144:1209/153135.981:ERROR:device_event_log_impl.cc(192)] [15:31:35.981] Bluetooth: bluetooth_adapter_winrt.cc:1058 Getting Default Adapter failed.
+Dec 09, 2023 16:03:18.754 [4200:10144:1209/160318.754:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Dec 11, 2023 09:31:33.690 NEW SESSION
+Dec 11, 2023 09:31:33.690 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 11, 2023 13:49:51.240 [1212:9692:1211/134951.239:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 11, 2023 14:01:36.369 [1212:9692:1211/140136.369:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 11, 2023 14:01:37.839 [1212:9692:1211/140137.838:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 11, 2023 14:01:41.23 [1212:9692:1211/140141.023:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Dec 12, 2023 14:27:41.781 NEW SESSION
+Dec 12, 2023 14:27:41.781 [5428:5280:1212/142741.758:ERROR:cert_verify_proc_builtin.cc(705)] CertVerifyProcBuiltin for cs.axis-marketplace.com failed:
+Dec 12, 2023 14:27:41.782 ----- Certificate i=0 (CN=*.axis-marketplace.com) -----
+Dec 12, 2023 14:27:41.783 ERROR: Time is after notAfter
+Dec 12, 2023 14:27:41.783 
+Dec 12, 2023 14:27:41.783 
+Dec 12, 2023 14:52:12.681 [5428:6704:1212/145212.680:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+Dec 13, 2023 09:19:48.101 NEW SESSION
+Dec 13, 2023 09:19:48.101 [6280:6284:1213/091948.099:ERROR:device_event_log_impl.cc(192)] [09:19:48.098] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 13, 2023 13:35:40.398 [6280:10960:1213/133540.397:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 13, 2023 13:55:53.430 [6280:10960:1213/135553.429:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 13, 2023 13:55:54.791 [6280:10960:1213/135554.791:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 13, 2023 13:55:58.299 [6280:10960:1213/135558.299:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 13, 2023 14:49:21.250 [6280:10960:1213/144921.249:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Dec 13, 2023 14:55:12.369 [6280:10960:1213/145512.368:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Dec 13, 2023 14:55:13.889 [6280:10960:1213/145513.889:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 13, 2023 14:55:17.315 [6280:10960:1213/145517.315:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Dec 13, 2023 16:59:52.70 [6280:6284:1213/165952.048:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:00:02.874 [6280:6284:1213/170002.872:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:00:23.43 [6280:10960:1213/170023.043:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+Dec 13, 2023 17:07:13.563 [6280:6284:1213/170713.563:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:08:05.96 [6280:6284:1213/170805.096:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:11:35.396 [6280:6284:1213/171135.396:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:11:57.406 [6280:6284:1213/171157.405:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:33:53.499 [6280:6284:1213/173353.499:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:33:54.770 [6280:6284:1213/173354.769:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:33:56.256 [6280:6284:1213/173356.255:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:33:57.599 [6280:6284:1213/173357.598:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:34:00.897 [6280:6284:1213/173400.895:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:34:02.646 [6280:6284:1213/173402.645:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:34:04.246 [6280:6284:1213/173404.245:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:34:06.706 [6280:6284:1213/173406.706:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 13, 2023 17:34:10.622 [6280:6284:1213/173410.621:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+
+Dec 14, 2023 11:35:20.377 NEW SESSION
+Dec 14, 2023 11:35:20.378 [11780:11768:1214/113520.368:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+Dec 14, 2023 12:47:30.293 [11780:11768:1214/124730.293:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Dec 14, 2023 16:32:28.101 [11780:11768:1214/163228.099:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 14, 2023 16:32:30.420 [11780:11768:1214/163230.419:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+
+Dec 21, 2023 11:03:07.831 NEW SESSION
+Dec 21, 2023 11:03:07.831 [8960:3552:1221/110307.828:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+Dec 21, 2023 11:51:34.162 [8960:3552:1221/115134.158:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+Dec 21, 2023 11:51:45.636 [8960:3552:1221/115145.635:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Dec 23, 2023 11:27:45.386 NEW SESSION
+Dec 23, 2023 11:27:45.386 [4888:1144:1223/112745.383:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.
+Dec 23, 2023 11:28:23.680 [4888:1144:1223/112823.680:ERROR:fallback_task_provider.cc(124)] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/739782.

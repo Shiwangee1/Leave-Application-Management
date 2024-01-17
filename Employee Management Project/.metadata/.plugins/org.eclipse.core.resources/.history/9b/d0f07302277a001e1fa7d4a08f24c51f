@@ -1,0 +1,33 @@
+import java.io.IOException;
+import java.io.PrintWriter;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/admin_login")
+public class admin_login extends HttpServlet {
+    private static final long serialVersionUID = 1L;
+
+    protected void doPost(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+
+        String email = request.getParameter("email");
+        String password = request.getParameter("password");
+
+        // You can handle authentication logic here.
+
+        // For this example, just printing the email and password to the console.
+        System.out.println("Email: " + email);
+        System.out.println("Password: " + password);
+
+        // You can send a response back to the client if needed.
+        response.setContentType("text/html");
+        PrintWriter out = response.getWriter();
+        out.println("<html><body>");
+        out.println("<h1>Email: " + email + "</h1>");
+        out.println("<h1>Password: " + password + "</h1>");
+        out.println("</body></html>");
+    }
+}
